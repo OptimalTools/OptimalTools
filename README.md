@@ -32,7 +32,7 @@ Contributions are welcome! Please feel free to fork this repository, make improv
 
 ## Support
 
-For any issues or questions related to Optimal, please contact us at support@optimal.com.
+For any issues or questions related to Optimal, please contact us at our discord.
 
 ## License
 
