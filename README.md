@@ -22,7 +22,7 @@ To start optimizing your PC with Optimal, visit [Optimal's official website](htt
 
 ## Join Our Discord Community
 
-Join our Discord server to discuss optimization tips, get support, and connect with other gamers!
+Join our Discord server to discuss optimization tips, get support, and connect with other users!
 
 [![Discord](https://img.shields.io/discord/1234567890?color=7289DA&label=Discord&logo=discord&logoColor=ffffff)](https://discord.gg/your-discord-invite)
 
