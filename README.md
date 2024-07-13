@@ -34,9 +34,6 @@ Contributions are welcome! Please feel free to fork this repository, make improv
 
 For any issues or questions related to Optimal, please contact us at our discord.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
